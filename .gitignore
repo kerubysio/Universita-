@@ -1,0 +1,10 @@
+.DS_Store
+*.tmp
+# Se hai PDF enormi, potresti volerli escludere o usare Git LFS
+# *.pdf
+*.pptx
+*.ppt
+*.doc
+*.docx
+*.mp3
+*.mp4
