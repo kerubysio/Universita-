@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IL PIANO.md",
+                "file": "Cognitive Computing Systems/Lezione 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IL PIANO"
+              "title": "Lezione 1"
             }
           },
           {
-            "id": "6a544eed240d7461",
+            "id": "41322cd67b5c360a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Guida_LM_IngInf_2025-26.pdf"
+                "file": "1) ORGANIZZAZIONE/1) IL PIANO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Guida_LM_IngInf_2025-26"
+              "icon": "lucide-file",
+              "title": "1) IL PIANO"
             }
           }
         ]
@@ -56,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -90,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e96368d20543c8a",
@@ -186,35 +189,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "95fcbf0a5487dfa1",
   "lastOpenFiles": [
+    "Pasted image 20260402124224.png",
+    "Pasted image 20260402124123.png",
+    "Pasted image 20260402124114.png",
+    "Pasted image 20260402123923.png",
+    "Pasted image 20260402123659.png",
+    "1) ORGANIZZAZIONE/1) IL PIANO.md",
+    "Cognitive Computing Systems/Lezione 1.md",
+    "Cognitive Computing Systems/Immagini/Pasted image 20260401205348.png",
+    "Pasted image 20260401205343.png",
+    "Cognitive Computing Systems/Immagini/Pasted image 20260401205102.png",
+    "Pasted image 20260401205056.png",
+    "Cognitive Computing Systems/Immagini/Pasted image 20260401204420.png",
+    "Cognitive Computing Systems/Immagini",
+    "Cognitive Computing Systems/Immagini/Pasted image 20260401204112.png",
+    "1) ORGANIZZAZIONE/Algorithms, Data Structures and Machine Learning (6 CFU).md",
+    "1) ORGANIZZAZIONE",
+    "l",
+    "Cognitive Computing Systems",
+    "1) ORGANIZZAZIONE/Network and Cloud Infrastructures (6 CFU).md",
+    "1) ORGANIZZAZIONE/Architettura dei Sistemi Digitali (6 CFU).md",
+    "1) ORGANIZZAZIONE/Guida_LM_IngInf_2025-26.pdf",
     "test.md",
-    "Guida_LM_IngInf_2025-26.pdf",
-    "IL PIANO.md",
-    "Software Architecture Design (6 CFU).md",
-    "Cognitive Computing Systems (6 CFU).md",
-    "Quantum Information (6 CFU).md",
+    "1) ORGANIZZAZIONE/Software Architecture Design (6 CFU).md",
+    "1) ORGANIZZAZIONE/Cognitive Computing Systems (6 CFU).md",
+    "1) ORGANIZZAZIONE/Quantum Information (6 CFU).md",
     "ASDi",
     "ASDi/materiale/Appunti di Rocco di Torrepadula Franca Somma Alessandra.pdf",
     "ASDi/appunti/Informazioni utili.md",
     "ASDi/appunti",
     "ASDi/materiale",
-    "ASDi/materiale/Pasted image 20260303174155.png",
-    "Pasted image 20260303174139.png",
-    "Pasted image 20260303174035.png",
-    "Pasted image 20260303174034.png",
-    "Pasted image 20260303174033 1.png",
-    "Pasted image 20260303174033.png",
-    "Pasted image 20260303174030.png",
     "Benvenuto.md",
     "crea un collegamento.md"
   ]

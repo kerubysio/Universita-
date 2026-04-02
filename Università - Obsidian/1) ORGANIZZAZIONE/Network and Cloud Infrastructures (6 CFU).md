@@ -1,0 +1,2 @@
+- segui perchè ci sta il progetto di gruppo da fare
+- APPUNTI sul drive di antimo

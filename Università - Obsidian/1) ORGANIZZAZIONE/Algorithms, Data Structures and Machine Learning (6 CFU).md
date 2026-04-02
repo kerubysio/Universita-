@@ -1,0 +1,1 @@
+- Studialo dalle slides (cartella del drive) usando Gemini

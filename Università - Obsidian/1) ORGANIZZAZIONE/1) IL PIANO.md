@@ -15,8 +15,8 @@
 | ---------------------------------------------------------------- | ------------ | ------- | ------------ | ---------------------- |
 | **Architettura dei Sistemi Digitali**                            | I            | 6       | ING-INF/05   | B (Caratterizzante)    |
 | **Algorithms, Data Structures and Machine Learning** (Integrato) | Annuale      | 12      | ING-INF/05   | B (Caratterizzante)    |
-| _- Modulo di Algorithms and Data Structures_                     | _I_          | _6_     | _ING-INF/05_ |                        |
-| _- Modulo di Machine Learning_                                   | _II_         | _6_     | _ING-INF/05_ |                        |
+| _- Modulo di Algorithms and Data Structures_                     | I            | 6       | _ING-INF/05_ |                        |
+| _- Modulo di Machine Learning_                                   | II           | 6       | _ING-INF/05_ |                        |
 | **Architettura e Progetto dei Calcolatori**                      | II           | 9       | ING-INF/05   | B (Caratterizzante)    |
 | **Networks and Cloud Infrastructures**                           | II           | 6       | ING-INF/05   | B (Caratterizzante)    |
 | **Attività formative affini o integrative** (Tabella A)          | I / II       | 18      | Vari         | C (Affine/Integrativa) |
@@ -68,16 +68,17 @@ Secondo semestre
 **PRIMO SEMESTRE** 
 - Tabella A - Economia ed Organizzazione Aziendale
 **SECONDO SEMESTRE** 
-- Network and Cloud Infrastructures (6 CFU) - segui perchè ci sta il progetto di gruppo da fare
-- Tabella A - Se riesci a recuperare da solo fai ESM, sennò fai AOCR 
-- Tabella C - [[Quantum Information (6 CFU)]]
+- [[Network and Cloud Infrastructures (6 CFU)]] - segui perchè ci sta il progetto di gruppo da fare
+- Tabella A - Algoritmi di Ottimizzazione Combinatoria su Rete
+- Tabella C - [[Cognitive Computing Systems (6 CFU)]]
 ## SECONDO ANNO
 **PRIMO SEMESTRE**
 - Impianti di Elaborazione (9 CFU)
 - Tabella B - valuta tra AI e Robotica in base agli sbocchi lavorativi
-- Tabella C - [[Software Architecture Design (6 CFU)]], [[Cognitive Computing Systems (6 CFU)]]
+- Tabella C - [[Software Architecture Design (6 CFU)]], [[Quantum Information (6 CFU)]]
 **SECONDO SEMESTRE**
 - Architettura e Progetto dei Calcolatori (9 CFU) - importante da seguire
+- Elaborazione di Segnali Multimediali
 - Tabella B - valuta tra AI e Robotica in base agli sbocchi lavorativi
 
 poi al secondo anno, consiglio di Gabriel, ti risegui Architettura e Progetto dei Calcolatori (APC) perchè è complesso.
@@ -92,27 +93,23 @@ Quindi mi mancano:
 - Architettura e Progetto dei Calcolatori
 - Networks and Cloud Infrastructures
 - Esami a scelta Tabella A (altri 9 CFU)
-  $\rightarrow$ Economia ed Organizzazione Aziendale ( I ), [[Software Architecture Design (6 CFU)]]
+  $\rightarrow$ [[Software Architecture Design (6 CFU)]]
 - Esami a scelta Tabella B (18 CFU, tutti della stessa area)
   $\rightarrow$ Scegli un'area tra AI e Robotica in base agli sbocchi lavorativi
 - Esami a scelta Tabella C (18 CFU)
   $\rightarrow$ [[Cognitive Computing Systems (6 CFU)]] ( I ), [[Software Architecture Design (6 CFU)]] e  [[Quantum Information (6 CFU)]] ( II )
+---
+# Appelli degli esami
 
-# Sintesi del piano d'azione
-
-1. **Fino alla partenza:** Capire come sistemare questo guaio.
-    
-2. **Giappone:** Sushi.
-    
-3. **Ritorno (Aprile):** recuperare i corsi.
-    
-4. **Maggio/Giugno:** Seguo intensamente solo **Architettura Calcolatori** e Quantum Information.
-    
-5. **Estate:** Esame di ASDi e Architettura Calcolatori.
+Maggio - [[Algorithms, Data Structures and Machine Learning (6 CFU)]]
+Giugno - Network and Cloud Infrastructures
+Luglio - [[Cognitive Computing Systems (6 CFU)]]
+Settembre - [[Architettura dei Sistemi Digitali (6 CFU)]]
 
 Quindi mi conviene fare:
-- Recupero prioritario Network, poi vediti Calcolatori e Quantum
-- A giugno studia ASDi
-- Entro settembre ti dai Networks and Cloud Infrastructures
-- Entro ottobre finisci Architettura e Progetto dei Calcolatori
+- Recupero prioritario Network, poi vediti Cognitive Computing Systems.
+  Algoritmi di Ottimizzazione Combinatoria su Rete segui per capire il professore cosa vuole
+- Studia [[Algorithms, Data Structures and Machine Learning (6 CFU)]] per il 05 Maggio
+- Ad agosto studia ASDi
+
 
