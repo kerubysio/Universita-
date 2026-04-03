@@ -1,3 +1,5 @@
+Materia: [[Architettura dei Sistemi Digitali (6 CFU)]]
+Data: 02/04/2026
 # Da dove studiare
 Studia usando le slide, se non capisci qualcosa/per integrare controlla gli appunti di Rocco di Torrepadula Franca e Somma Alessandra su teams. Se qualcosa non ti è chiaro usa Gemini, è molto utile anche per gli esercizi (li fa meglio di chatgpt).
 Gli appunti a volte hanno errori, quindi guarda bene anche sulle slides.

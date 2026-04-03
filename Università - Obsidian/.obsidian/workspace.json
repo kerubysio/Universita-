@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7f35db317fbb0795",
+        "id": "11c76112eb83687a",
         "type": "tabs",
         "children": [
           {
-            "id": "95fcbf0a5487dfa1",
+            "id": "e62ae13d0af21abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Computing Systems/Lezioni/Lezione 1.md",
+                "file": "Cognitive Computing Systems/Lezioni/Lezione 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezione 1"
-            }
-          },
-          {
-            "id": "fcde1fa135235c0e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402183240.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260402183240"
-            }
-          },
-          {
-            "id": "41322cd67b5c360a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) ORGANIZZAZIONE/1) IL PIANO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1) IL PIANO"
+              "title": "Lezione 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,40 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e5a10602b9d5f67",
+  "active": "e62ae13d0af21abc",
   "lastOpenFiles": [
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402184013.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402183240.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403185033.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403193052.png",
+    "Cognitive Computing Systems/Lezioni/Lezione 3.md",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403193054.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192425.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192402.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192102.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192058.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192057.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192056.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192005.png",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3/Pasted image 20260403192003.png",
     "Cognitive Computing Systems/Lezioni/Lezione 2.md",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402191303.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402191227.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402191145.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402191113.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402191008.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402190835.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402190834.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402190328.png",
-    "Cognitive Computing Systems/Immagini/Img - lezione 2/Pasted image 20260402190230.png",
+    "1) ORGANIZZAZIONE/1) IL PIANO.md",
+    "ASDi/appunti/Informazioni utili.md",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 5",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 4",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3",
+    "Cognitive Computing Systems/Immagini/Img - Lezione 3",
+    "Cognitive Computing Systems/Lezioni/Lezione 5.md",
+    "Cognitive Computing Systems/Lezioni/Lezione 4.md",
     "Cognitive Computing Systems/Immagini/Img - lezione 2",
     "Cognitive Computing Systems/Lezioni/Lezione 1.md",
     "Cognitive Computing Systems/Lezioni",
-    "1) ORGANIZZAZIONE/1) IL PIANO.md",
     "Cognitive Computing Systems/Immagini/Img - lezione 1",
     "Cognitive Computing Systems/Immagini",
     "1) ORGANIZZAZIONE/Algorithms, Data Structures and Machine Learning (6 CFU).md",
     "1) ORGANIZZAZIONE",
     "l",
-    "Cognitive Computing Systems",
     "1) ORGANIZZAZIONE/Network and Cloud Infrastructures (6 CFU).md",
     "1) ORGANIZZAZIONE/Architettura dei Sistemi Digitali (6 CFU).md",
-    "1) ORGANIZZAZIONE/Guida_LM_IngInf_2025-26.pdf",
     "test.md",
     "1) ORGANIZZAZIONE/Software Architecture Design (6 CFU).md",
     "1) ORGANIZZAZIONE/Cognitive Computing Systems (6 CFU).md",
     "1) ORGANIZZAZIONE/Quantum Information (6 CFU).md",
-    "ASDi",
-    "ASDi/materiale/Appunti di Rocco di Torrepadula Franca Somma Alessandra.pdf",
-    "ASDi/appunti/Informazioni utili.md",
     "Benvenuto.md",
     "crea un collegamento.md"
   ]

@@ -105,8 +105,6 @@ Il passaggio finale è affidato a modelli di **apprendimento automatico (Learned
 
 ![[Pasted image 20260402191113.png]]
 
-![[Pasted image 20260402191145.png]]
-
 La **Minimum DeepQA Pipeline** riassume i passaggi essenziali che il sistema deve compiere per trasformare un input in linguaggio naturale in una risposta ponderata. Il flusso si articola in cinque fasi logiche:
 
 1. **Analisi delle domande**: È il momento della comprensione semantica in cui il sistema identifica cosa viene chiesto, il tipo di risposta attesa e i vincoli logici presenti nel testo.
