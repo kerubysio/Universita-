@@ -12,3 +12,5 @@ Per visualizzare i capitoli devi (credo) scaricare tutta quanta la cartella e ap
 
 Oggi ha letto i capitoli su media, mediana e moda in python, tuple e dizionari. Ossia da 4 a 8.
 Qualcuno lo ha saltato, non ricordo quale. In ogni caso serve solo come ripasso, non sono cose che chiederà al corso. Servono solo per sviluppare programmi CCS in futuro.
+
+Il resto della lezione vedilo velocemente dalla registrazione.
