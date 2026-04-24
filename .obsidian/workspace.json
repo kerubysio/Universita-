@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Computing Systems/Lezioni/Lezione 8 - Seminario sul Quantum Computing.md",
+                "file": "Cognitive Computing Systems/Lezioni/Lezione 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezione 8 - Seminario sul Quantum Computing"
+              "title": "Lezione 10"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e96368d20543c8a",
@@ -203,10 +204,10 @@
   },
   "active": "17ae33702979e9b6",
   "lastOpenFiles": [
-    "Cognitive Computing Systems/README.md",
-    "Cognitive Computing Systems/Lezioni/Lezione 10.md",
     "Cognitive Computing Systems/Lezioni/Lezione 9 - Python.md",
     "Cognitive Computing Systems/Lezioni/Lezione 8 - Seminario sul Quantum Computing.md",
+    "Cognitive Computing Systems/README.md",
+    "Cognitive Computing Systems/Lezioni/Lezione 10.md",
     "Cognitive Computing Systems/Lezioni/Lezione 7.md",
     "Cognitive Computing Systems/Lezioni/Lezione 6.md",
     "Cognitive Computing Systems/Lezioni/Lezione 5.md",
