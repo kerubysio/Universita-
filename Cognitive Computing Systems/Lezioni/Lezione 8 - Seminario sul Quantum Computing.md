@@ -3,4 +3,6 @@ DATA: 17/04/2026
 
 ---
 
+Non ci chiederà le cose dette al seminario.
+
 :)))
